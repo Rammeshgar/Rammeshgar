@@ -23,7 +23,7 @@
   <a href="https://www.rstudio.com/products/shiny/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Lgjaj9Xuv4o-bouH985IiAHaD4?rs=1&pid=ImgDetMain" alt="shiny" width="40" height="40"/> </a>
   <a href="https://pkgs.rstudio.com/flexdashboard/" target="_blank" rel="noreferrer"> <img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="Flexdashboard" width="40" height="40"/> </a>
   <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" width="40" height="40"/> </a>
-  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OSK.-wCs5F2nf1B0jLUAepxsyAQD_eEIPTOeiPDdP2LT9AM&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" alt="plotly" width="40" height="40"/> </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OSK.-wCs5F2nf1B0jLUAepxsyAQD_eEIPTOeiPDdP2LT9AM&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" alt="plotly" width="40" height="40"/> </a>
   <a href="https://echarts.apache.org/" target="_blank" rel="noreferrer"> <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" alt="Echarts" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 

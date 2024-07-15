@@ -19,9 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.computerworld.com/wp-content/uploads/2024/03/r_programming_language_abstract_programming_background_thinkstock_3x2_1200x800-100703503-orig.jpg?quality=50&strip=all" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/tidyverse-default.png" alt="tidyverse" width="40" height="40"/> </a> 
+  <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/05/tidyverse-default.png" alt="tidyverse" width="40" height="40"/> </a> 
   <a href="https://www.rstudio.com/products/shiny/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Lgjaj9Xuv4o-bouH985IiAHaD4?rs=1&pid=ImgDetMain" alt="shiny" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" width="40" height="40"/> </a>
+  <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" width="40" height="40"/> </a>
   <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OSK.-wCs5F2nf1B0jLUAepxsyAQD_eEIPTOeiPDdP2LT9AM&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" alt="plotly" width="40" height="40"/> </a>
   <a href="https://echarts.apache.org/" target="_blank" rel="noreferrer"> <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" alt="Echarts" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 

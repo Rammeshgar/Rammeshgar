@@ -35,7 +35,7 @@
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OSK.323d1bb1db296d6c404493d6a5b694a1&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" alt="Ableton live" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/376-3763380_adobe-premiere-icon-adobe-photoshop-icon-download-hd.png" alt="premiere pro" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.jetsetcom.net/images/stories/Premiere-Pro-CC-2020-icon-600px.png" alt="premiere pro" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rammeshgar&show_icons=true&locale=en&layout=compact" alt="rammeshgar" /></p>
 

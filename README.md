@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rammeshgar&label=Profile%20views&color=0e75b6&style=flat" alt="rammeshgar" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **How to get a job 😂**
 
 - 📫 How to reach me **rezaisadeq0@gmail.com**
 

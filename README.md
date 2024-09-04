@@ -33,10 +33,10 @@
   <a href="https://www.tableau.com/products/tableau" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank" rel="noreferrer"> <img src="https://pnghq.com/wp-content/uploads/power-bi-logo-and-sign-png-high-resolution.png" alt="Power BI" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OSK.323d1bb1db296d6c404493d6a5b694a1&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" alt="Ableton live" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.jetsetcom.net/images/stories/Premiere-Pro-CC-2020-icon-600px.png" alt="premiere pro" width="40" height="40"/> </a> 
+  <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/s/files/1/0013/2802/1548/files/Ableton-Live_800x800.progressive_672a1971-19e6-43f6-aae7-c0933d3c3a6a_medium.jpg?v=1530281222" alt="Ableton Live" width="40" height="40"/> </a> 
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rammeshgar&show_icons=true&locale=en&layout=compact" alt="rammeshgar" /></p>
 

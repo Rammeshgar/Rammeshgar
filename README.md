@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/icon/download/social_media/7725-r-programming-language.png" alt="R" width="40" height="40"/> </a>
   <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.9cf362dd746f224400db39caadee2dba?rik=Z4OHnCDreglyog&pid=ImgRaw&r=0" alt="tidyverse" width="40" height="40"/> </a> 
-  <a href="https://www.rstudio.com/products/shiny/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.cddc513b06b31b85a22283bc2f975fbf?rik=z8wqKeJde6bg8Q&pid=ImgRaw&r=0" alt="shiny" width="40" height="40"/> </a>
+  <a href="https://www.rstudio.com/products/shiny/" target="_blank" rel="noreferrer"> <img src="https://stevenmortimer.com/blog/tips-for-making-professional-shiny-apps-with-r/shiny-hex.png" alt="shiny" width="40" height="40"/> </a>
   <a href="https://pkgs.rstudio.com/flexdashboard/" target="_blank" rel="noreferrer"> <img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="Flexdashboard" width="40" height="40"/> </a>
   <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" width="40" height="40"/> </a>
   <a href="https://echarts.apache.org/" target="_blank" rel="noreferrer"> <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" alt="Echarts" width="40" height="40"/> </a>

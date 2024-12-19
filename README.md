@@ -17,6 +17,8 @@
 <a href="https://instagram.com/rammeshgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rammeshgar" height="30" width="40" /></a>
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=donut&theme=tokyonight" height="200" width="400" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/icon/download/social_media/7725-r-programming-language.png" alt="R" width="40" height="40"/> </a>
   <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.9cf362dd746f224400db39caadee2dba?rik=Z4OHnCDreglyog&pid=ImgRaw&r=0" alt="tidyverse" width="40" height="40"/> </a> 
@@ -38,6 +40,6 @@
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/s/files/1/0013/2802/1548/files/Ableton-Live_800x800.progressive_672a1971-19e6-43f6-aae7-c0933d3c3a6a_medium.jpg?v=1530281222" alt="Ableton Live" width="40" height="40"/> </a> 
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rammeshgar&show_icons=true&locale=en&layout=compact" alt="rammeshgar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rammeshgar&" alt="rammeshgar" /></p>
+
+

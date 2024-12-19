@@ -17,7 +17,7 @@
 <a href="https://instagram.com/rammeshgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rammeshgar" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=donut&theme=tokyonight" height="200" width="400" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=donut&theme=tokyonight" height="170" width="400" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/icon/download/social_media/7725-r-programming-language.png" alt="R" width="40" height="40"/> </a>

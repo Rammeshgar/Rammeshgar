@@ -17,10 +17,10 @@
 <a href="https://instagram.com/rammeshgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rammeshgar" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=donut&theme=tokyonight" height="170" width="400" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=donut&theme=tokyonight" height="170" width="400" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/icon/download/social_media/7725-r-programming-language.png" alt="R" width="40" height="40"/> </a>
+<h3 align="center">Languages and Tools:</h3>
+<p align="right"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/icon/download/social_media/7725-r-programming-language.png" alt="R" width="40" height="40"/> </a>
   <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.9cf362dd746f224400db39caadee2dba?rik=Z4OHnCDreglyog&pid=ImgRaw&r=0" alt="tidyverse" width="40" height="40"/> </a> 
   <a href="https://www.rstudio.com/products/shiny/" target="_blank" rel="noreferrer"> <img src="https://stevenmortimer.com/blog/tips-for-making-professional-shiny-apps-with-r/shiny-hex.png" alt="shiny" width="40" height="40"/> </a>
   <a href="https://pkgs.rstudio.com/flexdashboard/" target="_blank" rel="noreferrer"> <img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="Flexdashboard" width="40" height="40"/> </a>

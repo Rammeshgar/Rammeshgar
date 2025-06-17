@@ -39,7 +39,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/s/files/1/0013/2802/1548/files/Ableton-Live_800x800.progressive_672a1971-19e6-43f6-aae7-c0933d3c3a6a_medium.jpg?v=1530281222" alt="Ableton Live" width="40" height="40"/> </a> 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="Kotlin" width="40" height="40"/> </a> 
-
-
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="Google cloud" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.3851cc047b9284b97c521cc1a7d8a512?rik=Q%2fhqhGlhZoUjmg&pid=ImgRaw&r=0&sres=1&sresct=1" alt="MongoDB" width="40" height="40"/> </a>
 
 

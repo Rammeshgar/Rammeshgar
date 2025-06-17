@@ -1,11 +1,11 @@
 <img src="https://cdn.dribbble.com/users/43762/screenshots/1438974/media/487e8955c49643b4c79b7b4a05c4f7e4.gif" alt="MasterHead" height="200"  width="1000"/>
 <h1 align="center">Hi 👋, I'm Sadeq Rezai</h1>
-<h3 align="center">“Passionate self-learner: data analysis, music production, exercise, and all things tech!” 🌟🎧💻📊</h3>
+<h3 align="center">“Passionate self-learner: AI programming, data analysis, music production, exercise, and all things tech!” 🌟🎧💻📊</h3>
 <img align="right" alt="Coding" width="400" src=https://static01.nyt.com/images/2020/07/02/business/02Techfix-illo/01Techfix-illo-jumbo.gif?quality=90&auto=webp>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rammeshgar&label=Profile%20views&color=0e75b6&style=flat" alt="rammeshgar" /> </p>
 
-- 🌱 I’m currently learning **How to get a job 😂**
+- 🌱 I’m currently learning **new tech tools**
 
 - 📫 How to reach me **rezaisadeq0@gmail.com**
 
@@ -33,12 +33,12 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0e0727f168fba8b4f79b13952a771523?rik=PEYQDbiO1jzqSQ&riu=http%3a%2f%2fexceleratorbi.com.au%2fwp-content%2fuploads%2f2015%2f07%2fpq-icon-150x150.png&ehk=ZmNrzYYk0apbTrYboDK9rofhsklX2O%2fJT3zeVp%2fFAoE%3d&risl=&pid=ImgRaw&r=0" alt="Power Query" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/products/tableau" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank" rel="noreferrer"> <img src="https://pnghq.com/wp-content/uploads/power-bi-logo-and-sign-png-high-resolution.png" alt="Power BI" width="40" height="40"/> </a> 
+  <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Power BI" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/s/files/1/0013/2802/1548/files/Ableton-Live_800x800.progressive_672a1971-19e6-43f6-aae7-c0933d3c3a6a_medium.jpg?v=1530281222" alt="Ableton Live" width="40" height="40"/> </a> 
-  
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="Kotlin" width="40" height="40"/> </a> 
 
 
 

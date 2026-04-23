@@ -1,45 +1,79 @@
-<img src="https://cdn.dribbble.com/users/43762/screenshots/1438974/media/487e8955c49643b4c79b7b4a05c4f7e4.gif" alt="MasterHead" height="200"  width="1000"/>
+<img src="https://cdn.dribbble.com/users/43762/screenshots/1438974/media/487e8955c49643b4c79b7b4a05c4f7e4.gif" alt="MasterHead" width="1000"/>
+
 <h1 align="center">Hi 👋, I'm Sadeq Rezai</h1>
-<h3 align="center">“Passionate self-learner: AI programming, data analysis, music production, exercise, and all things tech!” 🌟🎧💻📊</h3>
-<img align="right" alt="Coding" width="400" src=https://static01.nyt.com/images/2020/07/02/business/02Techfix-illo/01Techfix-illo-jumbo.gif?quality=90&auto=webp>
+<h3 align="center">Configuration Consultant | Data Analyst | Web Developer</h3>
+<h4 align="center">Adaptable tech professional passionate about system reliability, continuous learning, and creative problem-solving. 🌟📊💻</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rammeshgar&label=Profile%20views&color=0e75b6&style=flat" alt="rammeshgar" /> </p>
-
-- 🌱 I’m currently learning **new tech tools**
-
-- 📫 How to reach me **rezaisadeq0@gmail.com**
-
-- ⚡ Fun fact **I look serious But I'm funny:)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sadeqrezai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sadeqrezai" height="30" width="40" /></a>
-<a href="https://instagram.com/rammeshgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rammeshgar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadeqrezai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Rammeshgar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rezaisadeq0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rammeshgar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=donut&theme=gruvbox" height="170" width="400" /></p>
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="right"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://freepngimg.com/icon/download/social_media/7725-r-programming-language.png" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://r-universe.dev/avatars/tidyverse.png?size=248" width="40" height="40"/> </a> 
-  <a href="https://www.rstudio.com/products/shiny/" target="_blank" rel="noreferrer"> <img src="https://stevenmortimer.com/blog/tips-for-making-professional-shiny-apps-with-r/shiny-hex.png" alt="shiny" width="40" height="40"/> </a>
-  <a href="https://pkgs.rstudio.com/flexdashboard/" target="_blank" rel="noreferrer"> <img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="Flexdashboard" width="40" height="40"/> </a>
-  <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" width="40" height="40"/> </a>
-  <a href="https://echarts.apache.org/" target="_blank" rel="noreferrer"> <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" alt="Echarts" width="40" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OSK.-wCs5F2nf1B0jLUAepxsyAQD_eEIPTOeiPDdP2LT9AM&w=64&h=64&c=7&o=6&dpr=1.5&pid=SANGAM" alt="plotly" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="streamlit" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0e0727f168fba8b4f79b13952a771523?rik=PEYQDbiO1jzqSQ&riu=http%3a%2f%2fexceleratorbi.com.au%2fwp-content%2fuploads%2f2015%2f07%2fpq-icon-150x150.png&ehk=ZmNrzYYk0apbTrYboDK9rofhsklX2O%2fJT3zeVp%2fFAoE%3d&risl=&pid=ImgRaw&r=0" alt="Power Query" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/products/tableau" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Power BI" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/s/files/1/0013/2802/1548/files/Ableton-Live_800x800.progressive_672a1971-19e6-43f6-aae7-c0933d3c3a6a_medium.jpg?v=1530281222" alt="Ableton Live" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="Kotlin" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="Google cloud" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.3851cc047b9284b97c521cc1a7d8a512?rik=Q%2fhqhGlhZoUjmg&pid=ImgRaw&r=0&sres=1&sresct=1" alt="MongoDB" width="40" height="40"/> </a>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>💼 Currently working as a <strong>Configuration Consultant</strong> at <em>FRAIA</em>, focusing on Test Engineering, Web Dev, and Prompt Engineering.</li>
+        <li>📊 Previously worked as a <strong>Data Analyst</strong> at <em>Peroptyx</em>, analyzing digital maps and developing data solutions.</li>
+        <li>🌍 Based in <strong>Budapest, Hungary</strong> | Polyglot: Farsi (Native), English (C1), Hungarian (B2), German (A2).</li>
+        <li>💡 I love mixing analytical technology with creativity—like Music Production!</li>
+        <li>⚡ <strong>Fun fact:</strong> I might look serious, but I'm not :)</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://static01.nyt.com/images/2020/07/02/business/02Techfix-illo/01Techfix-illo-jumbo.gif?quality=90&auto=webp" alt="Coding GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
+<br>
 
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
+
+<p align="center">
+  <!-- Languages & Web Dev -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br><br>
+  <!-- BI & Databases -->
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <br><br>
+  <!-- Marketing, Security & Tools -->
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6C37?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<!-- R Custom Packages Grouped Cleanly -->
+<p align="center">
+  <img src="https://r-universe.dev/avatars/tidyverse.png?size=248" width="45" title="Tidyverse"/> &nbsp;
+  <img src="https://stevenmortimer.com/blog/tips-for-making-professional-shiny-apps-with-r/shiny-hex.png" width="45" title="Shiny"/> &nbsp;
+  <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" width="45" title="Echarts"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" width="45" title="ggplot2"/>
+</p>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=compact&theme=vision-friendly-dark" height="170" alt="GitHub Stats" />
+</p>

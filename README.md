@@ -1,4 +1,6 @@
-<img src="https://cdn.dribbble.com/users/43762/screenshots/1438974/media/487e8955c49643b4c79b7b4a05c4f7e4.gif" alt="MasterHead" width="1000"/>
+<img width="1000" height="330" alt="MasterHead" src="https://github.com/user-attachments/assets/206e4363-13e5-4e10-867d-8de0afab0498" />
+
+
 
 <h1 align="center">Hi 👋, I'm Sadeq Rezai</h1>
 <h3 align="center">Configuration Consultant | Data Analyst | Web Developer</h3>

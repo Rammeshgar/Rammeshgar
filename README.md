@@ -1,12 +1,14 @@
 <img width="1000" height="330" alt="MasterHead" src="https://github.com/user-attachments/assets/206e4363-13e5-4e10-867d-8de0afab0498" />
 
-
-
 <h1 align="center">Hi 👋, I'm Sadeq Rezai</h1>
 <h3 align="center">Configuration Consultant | Data Analyst | Web Developer</h3>
 <h4 align="center">Adaptable tech professional passionate about system reliability, continuous learning, and creative problem-solving. 🌟📊💻</h4>
 
 <p align="center">
+  <!-- NEW PORTFOLIO BADGE -->
+  <a href="https://rammeshgar.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sadeqrezai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -26,6 +28,7 @@
     <td width="60%">
       <h3>👨‍💻 About Me</h3>
       <ul>
+        <li>🌐 Check out my interactive 3D portfolio: <strong><a href="https://rammeshgar.github.io" target="_blank">rammeshgar.github.io</a></strong></li>
         <li>💼 Currently working as a <strong>Configuration Consultant</strong> at <em>FRAIA</em>, focusing on Test Engineering, Web Dev, and Prompt Engineering.</li>
         <li>📊 Previously worked as a <strong>Data Analyst</strong> at <em>Peroptyx</em>, analyzing digital maps and developing data solutions.</li>
         <li>🌍 Based in <strong>Budapest, Hungary</strong> | Polyglot: Farsi (Native), English (C1), Hungarian (B2), German (A2).</li>

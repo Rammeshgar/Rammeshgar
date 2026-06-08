@@ -41,49 +41,59 @@
   </tr>
 </table>
 
-<br>
-
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
 
-<p align="center">
-  <!-- Languages, Web Dev & Testing -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
-  <br><br>
-  <!-- Data Analytics & BI -->
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <br><br>
-  <!-- AI, Automation & Creative Multimedia -->
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6C37?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/HeyGen-7A52E2?style=for-the-badge" alt="HeyGen" />
-  <img src="https://img.shields.io/badge/Kling_AI-FF5A00?style=for-the-badge" alt="Kling AI" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" alt="ElevenLabs" />
-  <img src="https://img.shields.io/badge/Rive_(Mascots)-1E1E2E?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
-  <img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton" />
-  <br><br>
-  <!-- Marketing, Security & Tools -->
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
-  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<!-- R Custom Packages Grouped Cleanly -->
-<p align="center">
-  <img src="https://r-universe.dev/avatars/tidyverse.png?size=248" width="45" title="Tidyverse"/> &nbsp;
-  <img src="https://stevenmortimer.com/blog/tips-for-making-professional-shiny-apps-with-r/shiny-hex.png" width="45" title="Shiny"/> &nbsp;
-  <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" width="45" title="Echarts"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" width="45" title="ggplot2"/>
-</p>
-
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="right"><strong>🌐 Web Dev & Testing</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><strong>📊 Data Analytics & BI</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+        <br>
+        <sub><strong>R Packages:</strong></sub>
+        <img src="https://r-universe.dev/avatars/tidyverse.png?size=248" width="25" title="Tidyverse" align="center"/>
+        <img src="https://stevenmortimer.com/blog/tips-for-making-professional-shiny-apps-with-r/shiny-hex.png" width="25" title="Shiny" align="center"/>
+        <img src="https://echarts4r.john-coene.com/reference/figures/logo.png" width="25" title="Echarts" align="center"/>
+        <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" width="25" title="ggplot2" align="center"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><strong>🤖 AI & Creative Media</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Prompt_Engineering-FF6C37?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+        <img src="https://img.shields.io/badge/HeyGen-7A52E2?style=for-the-badge" alt="HeyGen" />
+        <img src="https://img.shields.io/badge/Kling_AI-FF5A00?style=for-the-badge" alt="Kling AI" />
+        <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" alt="ElevenLabs" />
+        <img src="https://img.shields.io/badge/Rive_(Mascots)-1E1E2E?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
+        <img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><strong>🛠️ Tools & Marketing</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
+        <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
+        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 <h3 align="center">📊 GitHub Stats</h3>

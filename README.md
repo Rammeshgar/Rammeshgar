@@ -5,7 +5,6 @@
 <h4 align="center">Adaptable tech professional passionate about system reliability, continuous learning, and creative problem-solving. 🌟📊💻</h4>
 
 <p align="center">
-  <!-- NEW PORTFOLIO BADGE -->
   <a href="https://rammeshgar.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
@@ -32,7 +31,7 @@
         <li>💼 Currently working as a <strong>Configuration Consultant</strong> at <em>FRAIA</em>, focusing on Test Engineering, Web Dev, and Prompt Engineering.</li>
         <li>📊 Previously worked as a <strong>Data Analyst</strong> at <em>Peroptyx</em>, analyzing digital maps and developing data solutions.</li>
         <li>🌍 Based in <strong>Budapest, Hungary</strong> | Polyglot: Farsi (Native), English (C1), Hungarian (B2), German (A2).</li>
-        <li>💡 I love mixing analytical technology with creativity—like Music Production!</li>
+        <li>💡 I love mixing analytical tech with creativity—exploring AI video/voice generation, interactive mascots, and Music Production!</li>
         <li>⚡ <strong>Fun fact:</strong> I might look serious, but I'm not :)</li>
       </ul>
     </td>
@@ -47,24 +46,33 @@
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <p align="center">
-  <!-- Languages & Web Dev -->
+  <!-- Languages, Web Dev & Testing -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
   <br><br>
-  <!-- BI & Databases -->
+  <!-- Data Analytics & BI -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <br><br>
+  <!-- AI, Automation & Creative Multimedia -->
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6C37?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/HeyGen-7A52E2?style=for-the-badge" alt="HeyGen" />
+  <img src="https://img.shields.io/badge/Kling_AI-FF5A00?style=for-the-badge" alt="Kling AI" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Rive_(Mascots)-1E1E2E?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
+  <img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton" />
+  <br><br>
   <!-- Marketing, Security & Tools -->
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
   <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6C37?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 

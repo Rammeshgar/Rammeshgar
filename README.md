@@ -53,6 +53,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
       </td>
     </tr>
     <tr>
@@ -80,6 +81,9 @@
         <img src="https://img.shields.io/badge/Kling_AI-FF5A00?style=for-the-badge" alt="Kling AI" />
         <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" alt="ElevenLabs" />
         <img src="https://img.shields.io/badge/Rive_(Mascots)-1E1E2E?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+        <img src="https://img.shields.io/badge/Mixamo-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Mixamo" />
+        <img src="https://img.shields.io/badge/Avaturn-1E1E2E?style=for-the-badge" alt="Avaturn" />
         <img src="https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white" alt="Ableton" />
       </td>
     </tr>
@@ -88,7 +92,9 @@
       <td>
         <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4" />
         <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" alt="GTM" />
-        <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+        <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="GSC" />
+        <img src="https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Clarity" />
+        <img src="https://img.shields.io/badge/SEO_&_Meta_Tags-F44D27?style=for-the-badge&logo=lighthouse&logoColor=white" alt="SEO" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </td>
     </tr>

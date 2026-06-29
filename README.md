@@ -102,7 +102,14 @@
 </div>
 <br>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats & Streak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=compact&theme=vision-friendly-dark" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammeshgar&layout=compact&theme=vision-friendly-dark" height="165" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rammeshgar&theme=vision-friendly-dark" height="165" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rammeshgar&theme=react&hide_border=true&bg_color=0D1117" alt="Sadeq's Activity Graph" />
 </p>

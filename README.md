@@ -111,5 +111,5 @@
 
 <h3 align="center">📈 GitHub Activity Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rammeshgar&theme=react&hide_border=true&bg_color=0D1117" alt="Sadeq's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rammeshgar&theme=react&hide_border=false&bg_color=0D1117" alt="Sadeq's Activity Graph" />
 </p>

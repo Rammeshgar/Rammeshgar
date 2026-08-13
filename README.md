@@ -219,8 +219,6 @@ The suite continuously validates infrastructure availability, clinical consultat
 
 ## 📈 GitHub Activity
 
-## 📈 GitHub Activity
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Rammeshgar&theme=github-dark-blue&hide_border=true"

@@ -1,19 +1,23 @@
 <img
   width="1000"
   height="330"
-  alt="Sadeq Rezai — quality automation, systems, data, and practical AI"
+  alt="Sadeq Rezai — configuration, quality validation, data, and AI-assisted systems"
   src="https://github.com/user-attachments/assets/206e4363-13e5-4e10-867d-8de0afab0498"
 />
 
 <h1 align="center">Sadeq Rezai</h1>
 
 <p align="center">
-  <strong>Quality Automation & Systems Engineer</strong><br>
+  <strong>Configuration, Quality & AI-Enabled Systems Specialist</strong><br>
   Configuration Consultant at FRAIA · Budapest, Hungary
 </p>
 
 <p align="center">
-  I build systems that replace assumptions with visible evidence: automated tests, monitoring, structured data, and practical AI interfaces.
+  I turn unclear requirements into testable workflows, working systems, and evidence that teams can act on.
+</p>
+
+<p align="center">
+  I use AI-assisted development for implementation while owning the structure, testing, integration, and decision to ship. R is my strongest programming language; I also have practical Python and SQL knowledge.
 </p>
 
 <p align="center">
@@ -24,10 +28,10 @@
 
 ## What I work on
 
-- Automated UI, API, regression, parser, and AI-feature validation
-- Observable workflows with scheduled checks, artifacts, dashboards, and controlled alerting
-- Browser systems that connect frontend engineering, data, 3D interaction, voice, and bounded AI
-- Local-first developer tools with explicit permissions and privacy boundaries
+- Configuration and validation for customer-facing and AI-enabled systems
+- Browser and API checks, scheduled monitoring, reports, and CI workflows
+- Data products and web interfaces built with R and AI-assisted implementation
+- Local-first tools with explicit permissions, review steps, and privacy boundaries
 
 ## Selected systems
 
@@ -47,7 +51,7 @@
         <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/main/assets/social/seneschal-social-preview.png" alt="Seneschal local-first AI workspace">
       </a>
       <h3>Seneschal</h3>
-      <p>A private, local-first OpenCode workspace for Windows and WSL. It combines role-based work modes, approval controls, instruction and skill editing, session navigation, voice input, and optional browser or Blender bridges.</p>
+      <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, dependency-aware handoffs, approval controls, visible review, voice input, and browser, VS Code, and Blender bridges.</p>
       <p><code>JavaScript</code> <code>Node.js</code> <code>WSL</code> <code>Local security</code></p>
       <p><a href="https://github.com/Rammeshgar/seneschal">Repository</a> · <a href="https://github.com/Rammeshgar/seneschal/releases">Beta release</a></p>
     </td>
@@ -78,15 +82,16 @@
 
 | Area | Tools |
 |---|---|
-| Quality and delivery | Python, Playwright, Pytest, API testing, GitHub Actions, CI/CD |
-| Web and systems | JavaScript, HTML, CSS, Three.js, WebGL, Node.js, Netlify |
-| Data and BI | R, SQL, MySQL, Power BI, Tableau, Shiny, Leaflet |
-| AI and interaction | Gemini, prompt and context design, speech, visemes, Blender |
+| Programming and data | R; practical Python, SQL, and MySQL |
+| Validation and delivery | Playwright, API/UI validation, GitHub Actions, CI/CD |
+| AI-assisted implementation | JavaScript, HTML, CSS, Three.js, WebGL, Node.js, Netlify |
+| Data and BI | Power BI, Tableau, Shiny, Leaflet |
+| AI and interaction | Gemini, context design, speech, visemes, Blender |
 | Measurement | Google Tag Manager, Google Analytics, Microsoft Clarity, technical SEO |
 
 ## How I approach the work
 
-I start with the context, turn scattered requirements into a testable workflow, validate the important paths and edge cases, and make failures visible enough to act on. My background in data analysis, web development, configuration, and testing helps me follow a system from input to implementation to proof.
+I start by defining the problem and what a correct result should look like. I use AI-assisted implementation to build and connect the parts, then check the important paths, edge cases, and failure states before treating the work as ready.
 
 <p align="center">
   <a href="https://rammeshgar.github.io">Portfolio</a> ·

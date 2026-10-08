@@ -68,11 +68,12 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://sadeq.shinyapps.io/exchange_universe/">
-        <img src="https://github.com/user-attachments/assets/1dce4e24-afe3-4a19-b608-bad4aaa968fe" alt="Exchange Universe currency data application">
+        <img src="https://raw.githubusercontent.com/Rammeshgar/Exchange_Universe_shiny/main/docs/screenshots/explore-dark.png" alt="Rebuilt Exchange Universe: currency comparisons linked to a Leaflet world map">
       </a>
       <h3>Exchange Universe</h3>
-      <p>An R Shiny data product for exploring real-time rates across more than 170 currencies, historical trends, comparisons, conversion, downloadable data, and 2D/3D visualizations.</p>
-      <p><code>R</code> <code>Shiny</code> <code>APIs</code> <code>Data visualization</code></p>
+      <p>A rebuilt R Shiny currency atlas linking daily-history comparisons with an interactive world map. Click countries to select currencies, convert amounts, inspect exact values and export data. Responsive settings and optional 3D plots support desktop and mobile use.</p>
+      <p><code>R</code> <code>Shiny</code> <code>Leaflet</code> <code>APIs</code></p>
+      <p><small>October 2026 rebuild · indicative quotes; coverage and freshness depend on the API plan.</small></p>
       <p><a href="https://github.com/Rammeshgar/Exchange_Universe_shiny">Repository</a> · <a href="https://sadeq.shinyapps.io/exchange_universe/">Live application</a></p>
     </td>
   </tr>

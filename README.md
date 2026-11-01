@@ -48,12 +48,12 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Rammeshgar/seneschal">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/main/assets/social/seneschal-social-preview.png" alt="Seneschal local-first AI workspace">
+        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/main/docs/images/seneschal-workspace-night.png" alt="Seneschal workspace with city wallpaper, compact sidebars and the 3D companion">
       </a>
       <h3>Seneschal</h3>
-      <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, dependency-aware handoffs, approval controls, visible review, voice input, and browser, VS Code, and Blender bridges.</p>
+      <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, explicit approvals and private phone access. Includes optional cloud voice, an animated 3D companion, local Activity history, English/Persian controls, and browser, VS Code and Blender integrations.</p>
       <p><code>JavaScript</code> <code>Node.js</code> <code>WSL</code> <code>Local security</code></p>
-      <p><a href="https://github.com/Rammeshgar/seneschal">Repository</a> · <a href="https://github.com/Rammeshgar/seneschal/releases">Beta release</a></p>
+      <p><a href="https://github.com/Rammeshgar/seneschal">Repository</a> · <a href="https://github.com/Rammeshgar/seneschal/releases/tag/v0.2.1-beta.20">Beta 20 release</a></p>
     </td>
   </tr>
   <tr>
@@ -99,3 +99,4 @@ I start by defining the problem and what a correct result should look like. I us
   <a href="https://www.linkedin.com/in/sadeqrezai">LinkedIn</a> ·
   <a href="mailto:rezaisadeq0@gmail.com">Email</a>
 </p>
+

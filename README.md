@@ -39,7 +39,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Rammeshgar/exchange-universe-monitor">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.0.1/docs/dashboard.png" alt="Exchange Universe Monitor with three status lanes and a run timeline">
+        <img src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png" alt="Exchange Universe Monitor with three status lanes and a run timeline">
       </a>
       <h3>Exchange Universe Monitor</h3>
       <p>GitHub Actions runs scheduled browser checks against the live currency atlas, converter and CSV export. The public dashboard shows run history and available failure screenshots. Optional SMTP emails cover failures, reminders and recovery.</p>

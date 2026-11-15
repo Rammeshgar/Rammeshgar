@@ -48,7 +48,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Rammeshgar/seneschal">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/c391649e6377d1277376b3c6acdb3e81383f66a2/docs/images/seneschal-companion-v07.png" alt="Front and rear views of Seneschal's rebuilt ceramic and brass 3D companion">
+        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png" alt="Seneschal Night Studio with its city wallpaper, compact sidebars, message composer and companion panel">
       </a>
       <h3>Seneschal</h3>
       <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, explicit approvals and private phone access. The source build includes a Blender-built 3D companion with articulated shoulders and six animation states.</p>

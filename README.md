@@ -38,13 +38,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Rammeshgar/PC-test-automation">
-        <img src="https://github.com/user-attachments/assets/bf7be5da-973e-4cb6-9265-e43e71f61c60" alt="Peoples Clinic quality monitoring dashboard">
+      <a href="https://github.com/Rammeshgar/exchange-universe-monitor">
+        <img src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.0.1/docs/dashboard.png" alt="Exchange Universe Monitor with three status lanes and a run timeline">
       </a>
-      <h3>Peoples Clinic QA Suite</h3>
-      <p>Continuous validation for infrastructure, clinical workflows, APIs, parsers, and AI-generated behavior. Scheduled Playwright and Python checks publish artifacts, screenshots, history, and cooldown-aware alerts.</p>
-      <p><code>Python</code> <code>Playwright</code> <code>GitHub Actions</code> <code>API testing</code></p>
-      <p><a href="https://github.com/Rammeshgar/PC-test-automation">Repository</a> · <a href="https://rammeshgar.github.io/PC-test-automation/">Live monitoring</a></p>
+      <h3>Exchange Universe Monitor</h3>
+      <p>Scheduled browser checks exercise the live currency atlas, converter and CSV export. A local dashboard shows check history and screenshots. Optional SMTP emails cover failures, reminders and recovery.</p>
+      <p><code>Playwright</code> <code>Node.js</code> <code>ECharts</code> <code>SMTP</code></p>
+      <p><a href="https://github.com/Rammeshgar/exchange-universe-monitor">Repository</a> · <a href="https://rammeshgar.github.io/exchange-universe/#monitoring">Case study</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor/releases/latest">Windows download</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Rammeshgar/seneschal">
@@ -75,7 +75,6 @@
       <p><code>R</code> <code>Shiny</code> <code>Leaflet</code> <code>APIs</code></p>
       <p><small>October 2026 rebuild · indicative quotes; coverage and freshness depend on the API plan.</small></p>
       <p><a href="https://github.com/Rammeshgar/Exchange_Universe_shiny">Repository</a> · <a href="https://sadeq.shinyapps.io/exchange_universe/">Live application</a></p>
-      <p><strong>Exchange Universe Monitor</strong> runs scheduled Playwright checks against the live atlas, records run evidence, and supports SMTP failure and recovery alerts. <a href="https://github.com/Rammeshgar/exchange-universe-monitor">Monitor source</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor/releases/tag/v1.0.0">Windows release</a></p>
     </td>
   </tr>
 </table>

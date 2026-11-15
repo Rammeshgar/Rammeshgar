@@ -42,9 +42,9 @@
         <img src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.0.1/docs/dashboard.png" alt="Exchange Universe Monitor with three status lanes and a run timeline">
       </a>
       <h3>Exchange Universe Monitor</h3>
-      <p>Scheduled browser checks exercise the live currency atlas, converter and CSV export. A local dashboard shows check history and screenshots. Optional SMTP emails cover failures, reminders and recovery.</p>
+      <p>GitHub Actions runs scheduled browser checks against the live currency atlas, converter and CSV export. The public dashboard shows run history and available failure screenshots. Optional SMTP emails cover failures, reminders and recovery.</p>
       <p><code>Playwright</code> <code>Node.js</code> <code>ECharts</code> <code>SMTP</code></p>
-      <p><a href="https://github.com/Rammeshgar/exchange-universe-monitor">Repository</a> · <a href="https://rammeshgar.github.io/exchange-universe/#monitoring">Case study</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor/releases/latest">Windows download</a></p>
+      <p><a href="https://github.com/Rammeshgar/exchange-universe-monitor">Repository</a> · <a href="https://rammeshgar.github.io/exchange-universe-monitor/">Live dashboard</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor/releases/latest">Windows download</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Rammeshgar/seneschal">

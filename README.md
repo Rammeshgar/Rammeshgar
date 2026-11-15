@@ -48,12 +48,12 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Rammeshgar/seneschal">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/main/docs/images/seneschal-workspace-night.png" alt="Seneschal workspace with city wallpaper, compact sidebars and the 3D companion">
+        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/c391649e6377d1277376b3c6acdb3e81383f66a2/docs/images/seneschal-companion-v07.png" alt="Front and rear views of Seneschal's rebuilt ceramic and brass 3D companion">
       </a>
       <h3>Seneschal</h3>
-      <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, explicit approvals and private phone access. Includes optional cloud voice, an animated 3D companion, local Activity history, English/Persian controls, and browser, VS Code and Blender integrations.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>WSL</code> <code>Local security</code></p>
-      <p><a href="https://github.com/Rammeshgar/seneschal">Repository</a> · <a href="https://github.com/Rammeshgar/seneschal/releases/tag/v0.2.1-beta.20">Beta 20 release</a></p>
+      <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, explicit approvals and private phone access. The source build includes a Blender-built 3D companion with articulated shoulders and six animation states.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Three.js</code> <code>Blender</code></p>
+      <p><a href="https://github.com/Rammeshgar/seneschal">Repository</a> · <a href="https://rammeshgar.github.io/seneschal/">Case study</a> · <a href="https://github.com/Rammeshgar/seneschal/releases/tag/v0.2.1-beta.20">Beta 20 release</a></p>
     </td>
   </tr>
   <tr>

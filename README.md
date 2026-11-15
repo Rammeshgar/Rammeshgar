@@ -1,102 +1,45 @@
-<img
-  width="1000"
-  height="330"
-  alt="Sadeq Rezai — configuration, quality validation, data, and AI-assisted systems"
-  src="https://github.com/user-attachments/assets/206e4363-13e5-4e10-867d-8de0afab0498"
-/>
+# Sadeq Rezai
 
-<h1 align="center">Sadeq Rezai</h1>
+I build and validate browser workflows and data tools. I define what should happen, test the main paths and failure cases, and keep evidence others can inspect.
 
-<p align="center">
-  <strong>Configuration, Quality & AI-Enabled Systems Specialist</strong><br>
-  Configuration Consultant at FRAIA · Budapest, Hungary
-</p>
+Budapest, Hungary · Open to configuration, QA automation, and data-tooling roles.
 
-<p align="center">
-  I turn unclear requirements into testable workflows, working systems, and evidence that teams can act on.
-</p>
+[Portfolio](https://rammeshgar.github.io/) · [LinkedIn](https://www.linkedin.com/in/sadeqrezai/) · [Email](mailto:rezaisadeq0@gmail.com)
 
-<p align="center">
-  I use AI-assisted development for implementation while owning the structure, testing, integration, and decision to ship. R is my strongest programming language; I also have practical Python and SQL knowledge.
-</p>
+## Selected work
 
-<p align="center">
-  <a href="https://rammeshgar.github.io"><img src="https://img.shields.io/badge/Engineering_Portfolio-0B6670?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Engineering portfolio"></a>
-  <a href="https://www.linkedin.com/in/sadeqrezai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rezaisadeq0@gmail.com"><img src="https://img.shields.io/badge/Email-BB4B3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sadeq"></a>
-</p>
+### Exchange Universe Monitor
 
-## What I work on
+Playwright checks the live currency app’s startup, charts, converter, interactive atlas, and CSV export. The public dashboard publishes run history and available screenshots from completed checks and failures. GitHub Actions is configured for scheduled checks, and optional SMTP alerts cover failures and recovery.
 
-- Configuration and validation for customer-facing and AI-enabled systems
-- Browser and API checks, scheduled monitoring, reports, and CI workflows
-- Data products and web interfaces built with R and AI-assisted implementation
-- Local-first tools with explicit permissions, review steps, and privacy boundaries
+[Live dashboard](https://rammeshgar.github.io/exchange-universe-monitor/) · [Source](https://github.com/Rammeshgar/exchange-universe-monitor) · [Case study](https://rammeshgar.github.io/exchange-universe/#monitoring)
 
-## Selected systems
+### Exchange Universe
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Rammeshgar/exchange-universe-monitor">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png" alt="Exchange Universe Monitor with three status lanes and a run timeline">
-      </a>
-      <h3>Exchange Universe Monitor</h3>
-      <p>GitHub Actions runs scheduled browser checks against the live currency atlas, converter and CSV export. The public dashboard shows run history and available failure screenshots. Optional SMTP emails cover failures, reminders and recovery.</p>
-      <p><code>Playwright</code> <code>Node.js</code> <code>ECharts</code> <code>SMTP</code></p>
-      <p><a href="https://github.com/Rammeshgar/exchange-universe-monitor">Repository</a> · <a href="https://rammeshgar.github.io/exchange-universe-monitor/">Live dashboard</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor/releases/latest">Windows download</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Rammeshgar/seneschal">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png" alt="Seneschal Night Studio with its city wallpaper, compact sidebars, message composer and companion panel">
-      </a>
-      <h3>Seneschal</h3>
-      <p>A local-first OpenCode workspace for Windows and WSL with a multi-agent board, explicit approvals and private phone access. The source build includes a Blender-built 3D companion with articulated shoulders and six animation states.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>Three.js</code> <code>Blender</code></p>
-      <p><a href="https://github.com/Rammeshgar/seneschal">Repository</a> · <a href="https://rammeshgar.github.io/seneschal/">Case study</a> · <a href="https://github.com/Rammeshgar/seneschal/releases/tag/v0.2.1-beta.20">Beta 20 release</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://rammeshgar.github.io/digital-twin-demo/">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/digital-twin-demo/main/assets/social-preview.png" alt="Interactive 3D Digital Twin">
-      </a>
-      <h3>Interactive 3D Digital Twin</h3>
-      <p>A browser-based paper-cut character with 13 animation clips, eight facial visemes, blended gesture transitions, microphone input, generated speech, and answers restricted to a maintained professional source of truth.</p>
-      <p><code>Three.js</code> <code>WebGL</code> <code>Gemini</code> <code>Netlify Functions</code></p>
-      <p><a href="https://github.com/Rammeshgar/digital-twin-demo">Repository</a> · <a href="https://rammeshgar.github.io/digital-twin-demo/">Live case study</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://sadeq.shinyapps.io/exchange_universe/">
-        <img src="https://raw.githubusercontent.com/Rammeshgar/Exchange_Universe_shiny/main/docs/screenshots/explore-dark.png" alt="Rebuilt Exchange Universe: currency comparisons linked to a Leaflet world map">
-      </a>
-      <h3>Exchange Universe</h3>
-      <p>A rebuilt R Shiny currency atlas linking daily-history comparisons with an interactive world map. Click countries to select currencies, convert amounts, inspect exact values and export data. Responsive settings and optional 3D plots support desktop and mobile use.</p>
-      <p><code>R</code> <code>Shiny</code> <code>Leaflet</code> <code>APIs</code></p>
-      <p><small>October 2026 rebuild · indicative quotes; coverage and freshness depend on the API plan.</small></p>
-      <p><a href="https://github.com/Rammeshgar/Exchange_Universe_shiny">Repository</a> · <a href="https://sadeq.shinyapps.io/exchange_universe/">Live application</a></p>
-    </td>
-  </tr>
-</table>
+I rebuilt an R/Shiny currency app around an interactive world map. Choose countries to compare historical rates, convert amounts, and export data. The app reuses saved rates and fetches missing data through a quota-aware request queue.
 
-## Working stack
+[Live app](https://sadeq.shinyapps.io/exchange_universe/) · [Source](https://github.com/Rammeshgar/Exchange_Universe_shiny) · [Case study](https://rammeshgar.github.io/exchange-universe/)
 
-| Area | Tools |
-|---|---|
-| Programming and data | R; practical Python, SQL, and MySQL |
-| Validation and delivery | Playwright, API/UI validation, GitHub Actions, CI/CD |
-| AI-assisted implementation | JavaScript, HTML, CSS, Three.js, WebGL, Node.js, Netlify |
-| Data and BI | Power BI, Tableau, Shiny, Leaflet |
-| AI and interaction | Gemini, context design, speech, visemes, Blender |
-| Measurement | Google Tag Manager, Google Analytics, Microsoft Clarity, technical SEO |
+### Seneschal
 
-## How I approach the work
+A local-first OpenCode workspace for Windows and WSL. It brings task dependencies, agent handoffs, and explicit tool approvals into one workspace. The beta includes a 3D companion.
 
-I start by defining the problem and what a correct result should look like. I use AI-assisted implementation to build and connect the parts, then check the important paths, edge cases, and failure states before treating the work as ready.
+[Case study](https://rammeshgar.github.io/seneschal/) · [Source](https://github.com/Rammeshgar/seneschal) · [Beta releases](https://github.com/Rammeshgar/seneschal/releases)
 
-<p align="center">
-  <a href="https://rammeshgar.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/sadeqrezai">LinkedIn</a> ·
-  <a href="mailto:rezaisadeq0@gmail.com">Email</a>
-</p>
+## Also shipped
 
+- **Afterlight** · Interactive pixel-art wallpapers for Windows, available as Classic and Cinema installers. [Download](https://github.com/Rammeshgar/afterlight/releases/latest) · [Project page](https://github.com/Rammeshgar/afterlight)
+- **Interactive 3D Digital Twin** · A browser character that answers questions about my work by voice or text. [Case study](https://rammeshgar.github.io/digital-twin-demo/) · [Source](https://github.com/Rammeshgar/digital-twin-demo)
+
+## Background
+
+Previously a Configuration Consultant at FRAIA and a Data Analyst at Peroptyx. R is my strongest programming language, and I have practical experience with SQL and Python. I use AI-assisted development and take responsibility for integration, testing, and release decisions.
+
+<details>
+<summary>Project screenshots</summary>
+
+<p><a href="https://rammeshgar.github.io/exchange-universe-monitor/"><img width="720" alt="Exchange Universe Monitor showing pass and fail timelines for Smoke, Regression, and Currency Conversion" src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png"></a></p>
+
+<p><a href="https://rammeshgar.github.io/seneschal/"><img width="720" alt="Seneschal Night Studio showing the full workspace, city wallpaper, and companion panel" src="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png"></a></p>
+
+</details>

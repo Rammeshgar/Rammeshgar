@@ -75,6 +75,7 @@
       <p><code>R</code> <code>Shiny</code> <code>Leaflet</code> <code>APIs</code></p>
       <p><small>October 2026 rebuild · indicative quotes; coverage and freshness depend on the API plan.</small></p>
       <p><a href="https://github.com/Rammeshgar/Exchange_Universe_shiny">Repository</a> · <a href="https://sadeq.shinyapps.io/exchange_universe/">Live application</a></p>
+      <p><strong>Exchange Universe Monitor</strong> runs scheduled Playwright checks against the live atlas, records run evidence, and supports SMTP failure and recovery alerts. <a href="https://github.com/Rammeshgar/exchange-universe-monitor">Monitor source</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor/releases/tag/v1.0.0">Windows release</a></p>
     </td>
   </tr>
 </table>

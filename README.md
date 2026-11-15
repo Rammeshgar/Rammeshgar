@@ -35,11 +35,18 @@ A local-first OpenCode workspace for Windows and WSL. It brings task dependencie
 
 Previously a Configuration Consultant at FRAIA and a Data Analyst at Peroptyx. R is my strongest programming language, and I have practical experience with SQL and Python. I use AI-assisted development and take responsibility for integration, testing, and release decisions.
 
-<details>
-<summary>Project screenshots</summary>
+## Project previews
 
-<p><a href="https://rammeshgar.github.io/exchange-universe-monitor/"><img width="720" alt="Exchange Universe Monitor showing pass and fail timelines for Smoke, Regression, and Currency Conversion" src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png"></a></p>
+<p align="center">
+  <a href="https://rammeshgar.github.io/exchange-universe-monitor/"><img width="620" alt="Exchange Universe Monitor showing pass and fail timelines for Smoke, Regression, and Currency Conversion" src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png"></a>
+</p>
 
-<p><a href="https://rammeshgar.github.io/seneschal/"><img width="720" alt="Seneschal Night Studio showing the full workspace, city wallpaper, and companion panel" src="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png"></a></p>
+<p align="center">
+  <a href="https://rammeshgar.github.io/exchange-universe/"><img width="306" alt="Exchange Universe currency charts and interactive Leaflet world map" src="https://raw.githubusercontent.com/Rammeshgar/Exchange_Universe_shiny/main/docs/screenshots/explore-dark.png"></a>
+  <a href="https://rammeshgar.github.io/seneschal/"><img width="306" alt="Seneschal Night Studio showing the full workspace, city wallpaper, and companion panel" src="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png"></a>
+</p>
 
-</details>
+<p align="center">
+  <a href="https://github.com/Rammeshgar/afterlight"><img width="306" alt="Afterlight Cinema’s pixel-art Canal City wallpaper with waterfront buildings and reflections" src="https://raw.githubusercontent.com/Rammeshgar/afterlight/2c8e5a285cd43f5ee761a64f843dfeda083dcb10/media/cinema-canal-city.webp"></a>
+  <a href="https://rammeshgar.github.io/digital-twin-demo/"><img width="306" alt="Interactive 3D Digital Twin preview with Sadeq’s browser character" src="https://raw.githubusercontent.com/Rammeshgar/digital-twin-demo/main/assets/social-preview.png"></a>
+</p>

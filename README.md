@@ -1,10 +1,12 @@
-# Sadeq Rezai
+<p><a href="https://rammeshgar.github.io/"><img align="right" width="24%" src="https://rammeshgar.github.io/assets/hero-original.webp" alt="Open The Working Studio portfolio"></a><strong>Sadeq Rezai</strong> · The Working Studio</p>
 
-I configure workflows, test browser and API behaviour, and build data tools in R/Shiny.
+# Browser & API validation
 
-Budapest, Hungary · Open to configuration, QA automation, and data-tooling roles.
-
-[Portfolio](https://rammeshgar.github.io/) · [LinkedIn](https://www.linkedin.com/in/sadeqrezai/) · [Email](mailto:rezaisadeq0@gmail.com)
+<p>
+  I configure workflows, write Playwright checks for live apps, and build data tools in R/Shiny.<br>
+  Budapest, Hungary · Open to configuration, QA automation, and data-tooling roles.<br>
+  <a href="https://rammeshgar.github.io/">View portfolio ↗</a> · <a href="https://www.linkedin.com/in/sadeqrezai/">LinkedIn</a> · <a href="mailto:rezaisadeq0@gmail.com">Email</a>
+</p>
 
 ## Selected work
 

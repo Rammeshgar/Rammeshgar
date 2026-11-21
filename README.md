@@ -1,64 +1,64 @@
-<h1 align="center">Sadeq Rezai</h1>
+<h1>Sadeq Rezai</h1>
 
-<p align="center">
-  <strong>The Working Studio</strong><br>
-  Workflow configuration · Playwright and API testing · R/Shiny data tools
-</p>
+<p><img width="100%" src="assets/profile-opening.webp" alt="The Working Studio: I design the workflow. I test the result. An illustration of an input, routing and evidence instrument."></p>
 
-<p align="center">
-  Budapest, Hungary · Open to configuration, QA automation, and data-tooling roles.<br>
-  <a href="https://rammeshgar.github.io/">View portfolio ↗</a> · <a href="https://www.linkedin.com/in/sadeqrezai/">LinkedIn</a> · <a href="mailto:rezaisadeq0@gmail.com">Email</a>
-</p>
+<p><strong>Technology implementation &amp; automation specialist</strong><br>
+I configure software, design browser and API checks, and build data tools. I use AI to help implement projects; I define the workflow, connect the pieces and verify the result.</p>
 
-## Selected work
+<p>Budapest, Hungary · Open to implementation, QA automation and data-tooling roles.<br>
+<a href="https://rammeshgar.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/sadeqrezai/">LinkedIn</a> · <a href="mailto:rezaisadeq0@gmail.com">Email</a></p>
 
-### (QA automation) Exchange Universe Monitor
+<h2>Selected projects</h2>
 
-<p><a href="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png"><img align="right" width="28%" alt="Exchange Universe Monitor showing pass and fail timelines for Smoke, Regression, and Currency Conversion" src="https://raw.githubusercontent.com/Rammeshgar/exchange-universe-monitor/v1.1.0/docs/dashboard.png"></a>
-I wrote Playwright checks for the live currency app, including doubling the EUR input to verify the HUF total. The dashboard links results to screenshots and GitHub Actions runs. Optional email alerts cover failures and recovery.</p>
+<p>Exchange Universe and its monitor are separate projects: one to explore currencies, the other to check the live app. The screenshots show captured runs and rates.</p>
 
-[Live dashboard](https://rammeshgar.github.io/exchange-universe-monitor/) · [Source](https://github.com/Rammeshgar/exchange-universe-monitor) · [Case study](https://rammeshgar.github.io/exchange-universe/#monitoring)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rammeshgar.github.io/exchange-universe-monitor-case/"><img src="assets/exchange-monitor.webp" width="100%" alt="Exchange Universe Monitor dashboard with three PASS/FAIL timelines and status cards"></a>
+      <h3>Exchange Universe Monitor (QA automation)</h3>
+      Playwright smoke and regression checks include doubling the EUR input to verify the HUF result. Published runs link to GitHub Actions and available screenshots. Optional email alerts cover failures and recovery.<br><br>
+      <a href="https://rammeshgar.github.io/exchange-universe-monitor/">Live dashboard</a> · <a href="https://github.com/Rammeshgar/exchange-universe-monitor">Source</a> · <a href="https://rammeshgar.github.io/exchange-universe-monitor-case/">Case study</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rammeshgar.github.io/exchange-universe/"><img src="assets/exchange-atlas.webp" width="100%" alt="Exchange Universe currency history charts and interactive Leaflet world map"></a>
+      <h3>Exchange Universe (currency atlas)</h3>
+      An R/Shiny app for currency history, comparison and conversion. Selecting a country on the Leaflet map changes the currency selection. Saved rates and queued requests limit unnecessary provider calls.<br><br>
+      <a href="https://sadeq.shinyapps.io/exchange_universe/">Live application</a> · <a href="https://github.com/Rammeshgar/Exchange_Universe_shiny">Source</a> · <a href="https://rammeshgar.github.io/exchange-universe/">Case study</a>
+    </td>
+  </tr>
+</table>
 
-<br clear="right">
+<h3>Seneschal (AI agent workspace)</h3>
 
-### (Currency atlas) Exchange Universe
+<p><a href="https://rammeshgar.github.io/seneschal/"><img align="left" src="assets/seneschal.webp" width="39%" alt="Seneschal Night Studio with Citylight wallpaper, task composer and 3D companion"></a>
+A public Windows/WSL beta built on OpenCode. Its agent board manages task dependencies and handoffs, shows which tools need approval, and keeps history locally. The workspace includes an optional 3D companion. A model provider is required for AI work.</p>
 
-<p><a href="https://raw.githubusercontent.com/Rammeshgar/Exchange_Universe_shiny/main/docs/screenshots/explore-dark.png"><img align="right" width="28%" alt="Exchange Universe currency charts and interactive Leaflet world map" src="https://raw.githubusercontent.com/Rammeshgar/Exchange_Universe_shiny/main/docs/screenshots/explore-dark.png"></a>
-I linked a Leaflet map to R/Shiny currency charts, so selecting a country changes the comparison. The app reuses saved rates and queues new requests to manage API limits.</p>
+<p><a href="https://github.com/Rammeshgar/seneschal/releases">Beta releases</a> · <a href="https://github.com/Rammeshgar/seneschal">Source</a> · <a href="https://rammeshgar.github.io/seneschal/">Case study</a></p>
 
-[Live app](https://sadeq.shinyapps.io/exchange_universe/) · [Source](https://github.com/Rammeshgar/Exchange_Universe_shiny) · [Case study](https://rammeshgar.github.io/exchange-universe/)
+<br clear="left">
 
-<br clear="right">
+<h2>Studio lab</h2>
 
-### (Agent workspace) Seneschal
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rammeshgar.github.io/digital-twin/"><img src="assets/digital-twin.webp" width="100%" alt="Interactive 3D Digital Twin paper-cut character in a dark studio"></a>
+      <h3>Interactive Digital Twin (3D assistant)</h3>
+      A browser character answers questions about my work by voice or text. Text stays available when 3D or speech cannot load.<br><br>
+      <a href="https://rammeshgar.github.io/digital-twin-demo/">Live demo</a> · <a href="https://github.com/Rammeshgar/digital-twin-demo">Source</a> · <a href="https://rammeshgar.github.io/digital-twin/">Case study</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rammeshgar.github.io/afterlight-case/"><img src="assets/afterlight.webp" width="100%" alt="Afterlight Cinema's pixel-art Canal City with illuminated waterfront buildings and water reflections"></a>
+      <h3>Afterlight (Windows wallpapers)</h3>
+      Nine interactive pixel-art worlds with day and night lighting and clickable scenery. Classic and Cinema have separate installers.<br><br>
+      <a href="https://github.com/Rammeshgar/afterlight/releases">Download</a> · <a href="https://github.com/Rammeshgar/afterlight">Source</a> · <a href="https://rammeshgar.github.io/afterlight-case/">Case study</a>
+    </td>
+  </tr>
+</table>
 
-<p><a href="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png"><img align="right" width="28%" alt="Seneschal Night Studio showing the full workspace, city wallpaper, and companion panel" src="https://raw.githubusercontent.com/Rammeshgar/seneschal/97587605a63a8dc89b32a81245205b51a9538b2c/docs/images/seneschal-workspace-night.png"></a>
-I built a local-first OpenCode workspace for Windows and WSL with a task dependency board, agent handoffs, and per-tool approvals. The beta includes a Blender-built 3D companion.</p>
+<h2>Background</h2>
 
-[Case study](https://rammeshgar.github.io/seneschal/) · [Source](https://github.com/Rammeshgar/seneschal) · [Beta releases](https://github.com/Rammeshgar/seneschal/releases)
+<p>At FRAIA (Apr 2025–Sep 2026), a small AI startup, I worked on client requirements, software configuration, browser and API validation, mobile prototypes and client websites. My earlier work at Peroptyx (Jul 2024–Jul 2025) was in data analysis.</p>
 
-<br clear="right">
-
-## Also shipped
-
-### (Windows wallpapers) Afterlight
-
-<p><a href="https://raw.githubusercontent.com/Rammeshgar/afterlight/2c8e5a285cd43f5ee761a64f843dfeda083dcb10/media/cinema-canal-city.webp"><img align="right" width="22%" alt="Afterlight Cinema’s pixel-art Canal City wallpaper with waterfront buildings and reflections" src="https://raw.githubusercontent.com/Rammeshgar/afterlight/2c8e5a285cd43f5ee761a64f843dfeda083dcb10/media/cinema-canal-city.webp"></a>
-Nine interactive pixel-art worlds for Windows with day and night lighting and clickable scenery. Classic and Cinema have separate installers.</p>
-
-[Download](https://github.com/Rammeshgar/afterlight/releases/latest) · [Project page](https://github.com/Rammeshgar/afterlight)
-
-<br clear="right">
-
-### (3D portfolio assistant) Interactive 3D Digital Twin
-
-<p><a href="https://raw.githubusercontent.com/Rammeshgar/digital-twin-demo/main/assets/social-preview.png"><img align="right" width="22%" alt="Interactive 3D Digital Twin preview with Sadeq’s browser character" src="https://raw.githubusercontent.com/Rammeshgar/digital-twin-demo/main/assets/social-preview.png"></a>
-A paper-cut 3D character answers questions about my work by voice or text. Text chat stays available when voice or 3D can’t load.</p>
-
-[Case study](https://rammeshgar.github.io/digital-twin-demo/) · [Source](https://github.com/Rammeshgar/digital-twin-demo)
-
-<br clear="right">
-
-## Background
-
-Previously a Configuration Consultant at FRAIA and a Data Analyst at Peroptyx. R is my strongest programming language, and I have practical experience with SQL and Python. I use AI-assisted development and take responsibility for integration, testing, and release decisions.
+<p>R is the language I have the most direct experience with. I also have practical SQL and Python knowledge. For many of my web and desktop projects, I use AI-assisted development and take responsibility for the workflow, integration and checks.</p>

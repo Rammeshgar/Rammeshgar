@@ -1,6 +1,6 @@
 <h1>Sadeq Rezai</h1>
 
-<p><img width="100%" src="assets/profile-opening.webp" alt="The Working Studio: I design the workflow. I test the result. An illustration of an input, routing and evidence instrument."></p>
+<p><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-opening.webp"><img width="100%" src="assets/profile-opening-motion.gif" alt="The Working Studio: I design the workflow. I test the result. An animated instrument illustrates Define, Connect and Verify."></picture></p>
 
 <p><strong>Technology implementation &amp; automation specialist</strong><br>
 I configure software, design browser and API checks, and build data tools. I use AI to help implement projects; I define the workflow, connect the pieces and verify the result.</p>
